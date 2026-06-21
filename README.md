@@ -6,6 +6,54 @@
 
 ---
 
+## 🧠 About Me
+
+```yaml
+name: Rayan Brigui
+based_in: Magdeburg, Germany
+education: B.Sc. Computer Science, Otto von Guericke University Magdeburg
+
+focus:
+  - AI-Assisted Software Engineering
+  - Full-Stack Development
+  - Backend Development
+  - REST API Development
+  - Object-Oriented Programming
+  - C# / .NET
+  - Vue.js / TypeScript
+
+currently_learning:
+  - Python
+  - Data Science
+  - Machine Learning
+  - Large Language Models
+  - Cloud Fundamentals
+
+looking_for:
+  - Werkstudent Software Development
+  - Praktikum Software Development
+  - Full-Stack / Backend / QA Automation roles
+```
+
+---
+
+## 🤖 AI / LLM / Data Science
+
+![AI Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![LLM API Integration](https://img.shields.io/badge/LLM%20API%20Integration-2E7D32?style=for-the-badge)
+![AI Debugging](https://img.shields.io/badge/AI--Assisted%20Debugging-FF9800?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+I am interested in using AI tools and Large Language Models to support software development, debugging, learning, and API-based application development.
+
+---
+
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages
@@ -26,7 +74,6 @@
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 ![JWT Authentication](https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge\&logo=cmake\&logoColor=white)
 
 ---
 
@@ -50,20 +97,6 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
----
-
-### 🤖 AI / LLM / Data Science
-
-![AI Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
-![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=for-the-badge)
-![LLM API Integration](https://img.shields.io/badge/LLM%20API%20Integration-2E7D32?style=for-the-badge)
-![AI Debugging](https://img.shields.io/badge/AI--Assisted%20Debugging-FF9800?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 
 ---
 
@@ -105,7 +138,7 @@ https://github.com/rayan9brx/conduit-realworld-blog-platform
 
 C# / MonoGame tower-defense project focused on object-oriented game logic, enemy waves, towers, rendering, and game-state management.
 
-**Technologies:** C#, .NET, MonoGame, OOP, Git/GitHub
+**Technologies:** C#, .NET, MonoGame, Object-Oriented Programming, Git/GitHub
 
 **Main features:**
 
@@ -114,25 +147,29 @@ C# / MonoGame tower-defense project focused on object-oriented game logic, enemy
 * Tower placement and attack logic
 * Gold, castle health, victory, and defeat logic
 * Basic 3D rendering and gameplay effects
+* Game-state management using object-oriented design
 
 🔗 **Repository:**
 https://github.com/rayan9brx/kings-last-castle-monogame
 
 ---
 
-### 3D Game Software Project
+### Finance Tracker
 
-University software development project focused on game logic and object-oriented components.
+Personal finance tracking application focused on managing income, expenses, transactions, and financial overview.
 
-**Technologies:** Java, C++, Git/GitHub
+**Technologies:** C#, .NET, SQL, Git/GitHub
 
 **Main features:**
 
-* Object-oriented game components
-* Basic movement logic
-* Collision handling
-* User interaction
-* Team-based development with Git/GitHub and code reviews
+* Add, edit, and manage income and expense entries
+* Categorize financial transactions
+* Track balance and spending overview
+* Store financial data using a database
+* Practice clean code, object-oriented programming, and structured project organization
+
+🔗 **Repository:**
+add your Finance Tracker GitHub repository link here
 
 ---
 
