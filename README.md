@@ -23,8 +23,7 @@ focus:
   - Vue.js / TypeScript
 
 currently_learning:
-  - Python
-  - Data Science
+  - HTML / CSS
   - Machine Learning
   - Large Language Models
   - Cloud Fundamentals
@@ -158,7 +157,7 @@ https://github.com/rayan9brx/kings-last-castle-monogame
 
 Personal finance tracking application focused on managing income, expenses, transactions, and financial overview.
 
-**Technologies:** C#, .NET, SQL, Git/GitHub
+**Technologies:** Java, Typescript, CSS, HTML, springboot .NET, SQL, Git/GitHub
 
 **Main features:**
 
