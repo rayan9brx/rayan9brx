@@ -151,26 +151,6 @@ C# / MonoGame tower-defense project focused on object-oriented game logic, enemy
 🔗 **Repository:**
 https://github.com/rayan9brx/kings-last-castle-monogame
 
----
-
-### Finance Tracker
-
-Personal finance tracking application focused on managing income, expenses, transactions, and financial overview.
-
-**Technologies:** Java, Typescript, CSS, HTML, springboot .NET, SQL, Git/GitHub
-
-**Main features:**
-
-* Add, edit, and manage income and expense entries
-* Categorize financial transactions
-* Track balance and spending overview
-* Store financial data using a database
-* Practice clean code, object-oriented programming, and structured project organization
-
-🔗 **Repository:**
-add your Finance Tracker GitHub repository link here
-
----
 
 ## 🎓 Certificates & Learning
 
@@ -187,18 +167,18 @@ add your Finance Tracker GitHub repository link here
 
 ---
 
-## 🔍 Currently Looking For
-
-I am looking for a **Werkstudent** or **Praktikum** opportunity in software development, especially in:
-
-* C# / .NET development
-* Full-stack development
-* Web development
-* REST API development
-* QA automation
-* AI-assisted software engineering
-
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rayan9brx&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan9brx&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=rayan9brx&theme=radical&hide_border=true" />
+</p>
 
 ## 🌍 Languages
 
@@ -214,3 +194,5 @@ I am looking for a **Werkstudent** or **Praktikum** opportunity in software deve
 * LinkedIn: https://www.linkedin.com/in/rayan-brigui
 * GitHub: https://github.com/rayan9brx
 * Email: [rayen.brigui6@gmail.com](mailto:rayen.brigui6@gmail.com)
+
+<p align="center"><i>Open to opportunities — let's build something great together!</i></p>
