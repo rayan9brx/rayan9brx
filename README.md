@@ -165,9 +165,7 @@ https://github.com/rayan9brx/kings-last-castle-monogame
 * Intermediate Predictive Analytics in Python — DataCamp
 * Data Manipulation with pandas — DataCamp
 
----
 
----
 
 ## 📊 GitHub Stats
 
@@ -180,14 +178,7 @@ https://github.com/rayan9brx/kings-last-castle-monogame
   <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=rayan9brx&theme=radical&hide_border=true" />
 </p>
 
-## 🌍 Languages
 
-![German](https://img.shields.io/badge/German-C2-black?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
-![French](https://img.shields.io/badge/French-Fluent-purple?style=for-the-badge)
-![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge)
-
----
 
 ## 📫 Contact
 
