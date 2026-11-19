@@ -108,50 +108,6 @@ I am interested in using AI tools and Large Language Models to support software 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### Conduit RealWorld Blog Platform
-
-Full-stack blog platform based on the RealWorld specification.
-
-**Technologies:** ASP.NET Core, C#, Vue.js, TypeScript, Flutter, SQLite, JWT Authentication, REST APIs
-
-**Main features:**
-
-* User registration and login
-* JWT authentication
-* Articles, comments, favourites, and user profiles
-* REST API communication between frontend and backend
-* Entity Framework Core migrations
-* Clean architecture with focus on maintainability
-* Team-based Git/GitHub workflow
-
-🔗 **Repository:**
-https://github.com/rayan9brx/conduit-realworld-blog-platform
-
----
-
-### King's Last Castle
-
-C# / MonoGame tower-defense project focused on object-oriented game logic, enemy waves, towers, rendering, and game-state management.
-
-**Technologies:** C#, .NET, MonoGame, Object-Oriented Programming, Git/GitHub
-
-**Main features:**
-
-* Enemy wave system
-* Multiple enemy and tower types
-* Tower placement and attack logic
-* Gold, castle health, victory, and defeat logic
-* Basic 3D rendering and gameplay effects
-* Game-state management using object-oriented design
-
-🔗 **Repository:**
-https://github.com/rayan9brx/kings-last-castle-monogame
-
-
 ## 🎓 Certificates & Learning
 
 * Claude Code 101 — Anthropic
