@@ -4,7 +4,6 @@
 💻 Interested in software development, full-stack applications, REST APIs, object-oriented programming, and AI-assisted software engineering
 🚀 Currently looking for a Werkstudent or Praktikum opportunity in software development
 
----
 
 ## 🧠 About Me
 
@@ -34,7 +33,6 @@ looking_for:
   - Full-Stack / Backend / QA Automation roles
 ```
 
----
 
 ## 🤖 AI / LLM / Data Science
 
@@ -51,7 +49,6 @@ looking_for:
 
 I am interested in using AI tools and Large Language Models to support software development, debugging, learning, and API-based application development.
 
----
 
 ## 🧰 Tech Stack
 
@@ -65,7 +62,6 @@ I am interested in using AI tools and Large Language Models to support software 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
----
 
 ### 🌐 Backend / Web Development / APIs
 
@@ -74,7 +70,6 @@ I am interested in using AI tools and Large Language Models to support software 
 ![JWT Authentication](https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
----
 
 ### 🎨 Frontend / UI
 
@@ -82,14 +77,12 @@ I am interested in using AI tools and Large Language Models to support software 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
----
 
 ### 📱 Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
----
 
 ### 🗄️ Databases
 
@@ -97,7 +90,6 @@ I am interested in using AI tools and Large Language Models to support software 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
----
 
 ### 🛠️ Tools & Development Environment
 
@@ -120,7 +112,6 @@ I am interested in using AI tools and Large Language Models to support software 
 * Intermediate Python — DataCamp
 * Intermediate Predictive Analytics in Python — DataCamp
 * Data Manipulation with pandas — DataCamp
-
 
 
 ## 📊 GitHub Stats
